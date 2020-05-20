@@ -1,0 +1,8 @@
+{
+  "execMap": {
+    "js": "deno run --allow-net --allow-read",
+    "ts": "deno run --allow-net --allow-read"
+  },
+  "ext": "js,json,ts",
+  "watch": [".", ".env"]
+}
